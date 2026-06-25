@@ -1,7 +1,7 @@
 Privacy Policy for Velora AI
 Effective Date: June 25, 2026
 
-Velora AI ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Velora AI (the "Application").
+Velora AI we committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Velora AI (the "Application").
 
 Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Application.
 
